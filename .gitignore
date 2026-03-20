@@ -1,0 +1,10 @@
+# resultados e dados pesados
+data/
+results/
+
+# arquivos temporários
+*.log
+*.tmp
+
+# VS Code
+.vscode/
